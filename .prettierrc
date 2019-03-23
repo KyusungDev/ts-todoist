@@ -1,0 +1,5 @@
+// prettier 옵션을 설정한다. 파일 저장시 아래 내용으로 변경된다.
+{
+  "semi": true,
+  "singleQuote": true
+}
